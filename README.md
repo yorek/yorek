@@ -4,8 +4,10 @@ Data Platform MVP for almost 12 years, I love Data and Database in all their for
 
 www.davidemauri.it
 
+<!--
 ## Repositories worth your time
 
 - All the samples of my book "Pratical Azure SQL database for Modern Developers": https://github.com/yorek/practical-azure-sql-db-for-modern-developers
 - The Awesome List for Azure SQL: https://github.com/yorek/awesome-azure-sql
 - Lots and lots of Azure SQL Database curated samples: https://github.com/yorek/azure-sql-db-samples
+-->
