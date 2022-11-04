@@ -1,6 +1,6 @@
 # Who I Am  <img align="right" src="https://komarev.com/ghpvc/?username=yorek&color=brightgreen" alt="yorek profile views" />
 
-Data Platform MVP for almost 12 years, I love Data and Database in all their forms. Developer for passion (C# and Python), I've been working in the IT field since 1997. My focus has been databases and performance tuning since the start, focusing both on transactional and analytical workloads. I worked for more than 10 years on Business Intelligence and Data Warehousing, then moved to IoT and Big Data for a while. Now back to database space, injecting passion and innovation into Azure SQL as Microsoft Product Manager for Azure SQL database, helping developers to re-discover SQL, used almost everywhere, and take advantage of all its amazing power! 
+Data Platform MVP for almost 12 years, I love Data and Database in all their forms. Developer for passion (C# and Python and Javascript), I've been working in the IT field since 1997. My focus has been databases and performance tuning since the start, focusing both on transactional and analytical workloads. I worked for more than 10 years on Business Intelligence and Data Warehousing, then moved to IoT and Big Data for a while. Now back to database space, injecting passion and innovation into Azure SQL as Microsoft Product Manager for Azure SQL database, helping developers to re-discover SQL, used almost everywhere, and take advantage of all its amazing power! 
 
 www.davidemauri.it
 
