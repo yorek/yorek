@@ -12,6 +12,10 @@ Generation of diagrams like flowcharts or sequence diagrams from text in a simil
 A Web Framework for Rapidly Building Interactive Diagrams
 - https://gojs.net/
 
+### DayJS
+A library to handle datetime in JS
+- https://day.js.org/
+
 ### Dapper
 Dapper - a simple object mapper for .Net
 - https://github.com/DapperLib/Dapper
