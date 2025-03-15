@@ -27,3 +27,7 @@ Spark.NET is a web application framework that embraces Blazor, ASP.NET and Entit
 ### Refine
 Build your React-based CRUD applications, without constraints. 
 - https://github.com/refinedev/refine
+
+### DBGate
+Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
+- https://github.com/dbgate/dbgate
